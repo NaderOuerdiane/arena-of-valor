@@ -12,4 +12,4 @@ Arena of Valor allows you to have statistics on your game (average rating , kill
 - Statistics input page and view statistics page Managed by Firestore.
 - Frontend is coded using Flutter and other libraries.
 
-![](https://imgur.com/Ppexi9g.png)
+![](https://imgur.com/6eStMSw.png)
